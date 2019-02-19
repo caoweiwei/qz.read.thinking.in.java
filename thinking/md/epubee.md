@@ -10,6 +10,6 @@
     ![下载到本地的js代码](https://github.com/caoweiwei/qz.read.thinking.in.java/blob/master/thinking/md/png/WX20190219-225910%402x.png "本地代码")
    
 5. 在第二步安装的ReRes插件中，将远程路径http://cn.epubee.com/app_books/manager.js 和下载到本地的路径(如:file:////Users/caoweiwei/Downloads/faker.js)建立绑定关系
-6. 以后访问http://cn.epubee.com网站就可以和VIP一样随时不限次数的下载电子书了
+6. 以后访问http://cn.epubee.com 网站就可以和VIP一样随时不限次数的下载电子书了
     
 
